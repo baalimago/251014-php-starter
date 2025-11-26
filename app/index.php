@@ -1,9 +1,9 @@
 <?php
 // Enter your code here, enjoy!
-$array = array("1" => "PHP code tester Sandbox Online",
+$array = array("1" => "PHP code tester Sandbox Online 251126_0",
     "emoji" => "😀 😃 😄 😁 😆", 5 , 5 => 89009,
     "Random number" => rand(100,999),
-    "PHP Version" => phpversion()
+    "PHP Version" => phpversion(),
 );
 
 foreach( $array as $key => $value ){
