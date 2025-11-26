@@ -1,6 +1,6 @@
 <?php
 // Enter your code here, enjoy!
-$array = array("1" => "PHP code tester Sandbox Online 251126_0, 251126_1",
+$array = array("1" => "PHP code tester Sandbox Online 251126_0, 251126_1, 251126_2",
     "emoji" => "😀 😃 😄 😁 😆", 5 , 5 => 89009,
     "Random number" => rand(100,999),
     "PHP Version" => phpversion(),
